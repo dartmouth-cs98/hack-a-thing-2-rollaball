@@ -3,7 +3,7 @@
 ## CS98 20F
 
 ### Description
-I followed a Unity Project (around 8 separate tutorials) to create a simple rolling ball game. The project serves as an introduction to creating game objects, collectibles, building planes, and having everything work together.
+I followed a Unity Project (around 8 separate tutorials) to create a simple rolling ball game. The project serves as an introduction to creating game objects, collectibles, building planes, and having everything work together. The user controls the ball's movements to pick up collectibles and score points. The player wins when all the collectibles have been triggered.
 
 This is the first time I have used Unity or coded in C# so this served as a good intro to the tech stack we will use for FaceTim3d.
 
