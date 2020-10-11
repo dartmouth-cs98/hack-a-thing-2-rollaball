@@ -7,6 +7,8 @@ I followed a Unity Project (around 8 separate tutorials) to create a simple roll
 
 This is the first time I have used Unity or coded in C# so this served as a good intro to the tech stack we will use for FaceTim3d.
 
+The project I followed can be found on Unity Learn at https://learn.unity.com/project/roll-a-ball?uv=2019.4
+
 ### What I Learned
 I learned how to navigate the Unity Editor and write simple scripts in C#. I learned the hierarchy of objects in the Unity Editor and how to have different objects interact with each other. I also learned a UI component of Unity with displaying and updating the player's score.
 
